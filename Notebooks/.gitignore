@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv
+.ipynb_checkpoints
+
+# Data files
+*.h5
+*.h5ad
+*.bam
+*.fastq
+*.csv
+*.tsv
+*.gz
+*.zip
+
+# System files
+.DS_Store
