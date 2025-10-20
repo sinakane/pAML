@@ -22,24 +22,22 @@ The repository contains code implementing the following analyses:
 
 Data Preprocessing
 
-Quality control, normalization, and integration of single-cell transcriptomic and proteomic data.
+1. Quality control, normalization, and integration of single-cell transcriptomic and proteomic data.
 
-Malignant vs. Normal Cell Identification
+2. Malignant vs. Normal Cell Identification
 
-KNN smoothing for robust classification of malignant and healthy cells.
+3. KNN smoothing for robust classification of malignant and healthy cells.
 
-Clustering and State Identification
+4. Clustering and State Identification
 
-K-means clustering based on CNMF-derived gene programs.
+5. K-means clustering based on CNMF-derived gene programs.
 
-Identification of gene modules correlated with LSC and blast states.
+6. Identification of gene modules correlated with LSC and blast states.
 
-Target Identification
+7. Target Identification
 
-Analysis of surface ADT markers.
+8. Analysis of surface ADT markers.
 
-Combinatorial testing to identify candidate immunotherapy targets.
+9. Combinatorial testing to identify candidate immunotherapy targets.
 
-Validation
-
-Comparison and validation using bulk RNA-seq and independent single-cell datasets.
+10. Validation using bulk RNA-seq and independent single-cell datasets.
